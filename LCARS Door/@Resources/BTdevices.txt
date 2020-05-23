@@ -1,0 +1,4 @@
+IXCC-Car Kit,IXCC-Car Kit,00:03:33:22:33:22,Audio,Headset,Yes,No,5/20/2020 7:57:29 AM,5/20/2020 7:57:29 AM,1,0,100.0%,Yes,,
+B's Galaxy Note10,B's Galaxy Note10,ec:aa:25:b2:84:56,Phone,Smart,Yes,No,5/20/2020 7:57:29 AM,5/20/2020 7:57:29 AM,1,0,100.0%,Yes,,
+MEE audio X7 Plus,,00:23:01:08:ab:1b,Audio,Headset,Yes,No,5/20/2020 7:57:29 AM,5/20/2020 7:57:29 AM,1,0,100.0%,Yes,,
+LGE DTV BCM20702A1,LGE DTV BCM20702A1,c8:29:2a:0f:bf:5c,Miscellaneous,,No,No,5/20/2020 7:57:29 AM,5/20/2020 7:57:29 AM,1,0,100.0%,No,,

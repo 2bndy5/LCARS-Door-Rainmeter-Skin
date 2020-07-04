@@ -1,3 +1,6 @@
+.. image:: https://github.com/2bndy5/LCARS-Door-Rainmeter-Skin/workflows/RMSKIN%20Package/badge.svg
+    :target: https://github.com/2bndy5/LCARS-Door-Rainmeter-Skin/actions
+
 This is the home for developing my suite of rainmeter skins that are meant to imitate
 the LCARS GUI as seen on computer in the Star Trek TNG television series. Most of these skins are in beta state. The list of skins included are:
 

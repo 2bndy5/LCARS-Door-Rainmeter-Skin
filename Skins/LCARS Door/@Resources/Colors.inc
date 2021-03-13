@@ -7,6 +7,12 @@ RegValue=ColorizationColor
 ; dynamicVariables=1
 onchangeAction=[!UpdateMeasure ScriptConverter]
 
+[WindowsDarkMode]
+measure=Plugin
+plugin=DarkContextMenu
+DarkMode=1
+Tooltips=1
+
 ;for historic development insight
 ; [MeasurePaletteRegistry]
 ; Measure=Plugin

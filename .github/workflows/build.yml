@@ -49,7 +49,7 @@ jobs:
 
       # Download the rmskin file artifact from the build job
       - name: Download rmskin artifact
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           name: ${{ needs.build.outputs.arc-name }}
 

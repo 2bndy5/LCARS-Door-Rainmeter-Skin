@@ -60,4 +60,7 @@ jobs:
           TAG: ${{ github.ref_name }}
           ASSET_PATH: ${{ github.workspace }}/${{ needs.build.outputs.arc-name }}
         run: >-
-          gh release create ${TAG} "${ASSET_PATH}"
+          gh release create ${TAG}
+          "${ASSET_PATH}"
+          --generate-notes
+          --title "${TAG}"

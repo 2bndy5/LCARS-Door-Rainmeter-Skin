@@ -28,12 +28,12 @@ All skins are stable enough to test.
 
 ## Rainmeter required
 
-The minimum required version of Rainmeter is 4.0, but the `latest stable release <https://www.rainmeter.net>`_ is recommended.
+The minimum required version of Rainmeter is 4.0, but the [latest stable release](https://www.rainmeter.net) is recommended.
 
 ## Manual Install
 
-Download this repository's zip file and extract the folder ``LCARS Door`` into the Rainmeter skins
-folder (defaults to ``C:\Users\%USERNAME%\Documents\Rainmeter\skins`` - unless OneDrive manages
+Download this repository's zip file and extract the folder `LCARS Door` into the Rainmeter skins
+folder (defaults to `C:\Users\%USERNAME%\Documents\Rainmeter\skins` - unless OneDrive manages
 your user documents folder).
 
 [rmskin-ci-badge]: https://github.com/2bndy5/LCARS-Door-Rainmeter-Skin/actions/workflows/build.yml/badge.svg

@@ -2,7 +2,13 @@
 
 name: Anti-virus Check
 
-on: [push]
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions: {}
 
 jobs:
   AVscan:
@@ -13,6 +19,6 @@ jobs:
         uses: actions/checkout@v6
         with:
           persist-credentials: false
-      
+
       - name: AV scan using ClamAV
         uses: djdefi/gitavscan@22

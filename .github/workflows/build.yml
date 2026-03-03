@@ -29,7 +29,7 @@ jobs:
 
       # upload the output from the `builder` step as workflow artifact
       - name: Archive rmskin file as artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ steps.builder.outputs.arc-name }}
           path: ${{ github.workspace }}/${{ steps.builder.outputs.arc-name }}
@@ -49,7 +49,7 @@ jobs:
 
       # Download the rmskin file artifact from the build job
       - name: Download rmskin artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: ${{ needs.build.outputs.arc-name }}
 

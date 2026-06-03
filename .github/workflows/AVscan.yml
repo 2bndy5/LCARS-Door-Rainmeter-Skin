@@ -16,7 +16,7 @@ jobs:
     name: AV scan
     steps:
       - name: Checkout resources to scan
-        uses: actions/checkout@v6
+        uses: actions/checkout@v6.0.2
         with:
           persist-credentials: false
 

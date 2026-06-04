@@ -18,7 +18,7 @@ jobs:
     steps:
       # Checkout code
       - name: Checkout this Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v6.0.2
         with:
           persist-credentials: false
 
@@ -43,7 +43,7 @@ jobs:
     steps:
       # Checkout code
       - name: Checkout this Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v6.0.2
         with:
           persist-credentials: true
 
